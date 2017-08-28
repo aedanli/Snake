@@ -1,5 +1,5 @@
 # Snake
-The classic Snake game built on MATLAB.
+The classic Snake game built in MATLAB.
 
 To run, simply add or navigate to path, then run in MATLAB. 
 
